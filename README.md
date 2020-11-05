@@ -1,4 +1,4 @@
-TODO: Add redirects in "dist/\_redirects"
+TODO: Add redirects in "static/\_redirects"
 
 TODO: Update copyright year in LICENSE, if neccessary
 
