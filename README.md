@@ -1,5 +1,7 @@
 TODO: Add redirects in "static/\_redirects"
 
+TODO: If the website should appear on search engines, remove the noindex header in "static/\_headers"
+
 TODO: Update copyright year in LICENSE, if neccessary
 
 TODO: Configure repository settings
