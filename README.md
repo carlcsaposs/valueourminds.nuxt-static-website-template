@@ -2,6 +2,8 @@ TODO: Add redirects in "static/\_redirects"
 
 TODO: If the website should appear on search engines, remove the noindex header in "static/\_headers"
 
+TODO: Change repository name in if-statement in `.github/workflows/deploy-dev.yml` and `.github/workflows/deploy-prod.yml`
+
 TODO: Update copyright year in LICENSE, if neccessary
 
 TODO: Configure repository settings
